@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Ronixa584/WEB-DEVELOPMENT/blob/main/HTML/IMAGES/html5.png" width="800px" />
+<img src="https://github.com/Ronixa584/WEB-DEVELOPMENT/blob/main/HTML/IMAGES/html5.png" width="250px" />
 </div>
 
 # HTML CheatSheet
