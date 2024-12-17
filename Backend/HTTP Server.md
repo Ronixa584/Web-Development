@@ -54,7 +54,7 @@ An **HTTP server** is software that listens for HTTP requests and sends HTTP res
    app.use(express.json());
 
    app.get('/', (req, res) => {
-       res.send('Welcome to the HTTP server!');
+       res.send('Welcome to the HTTP server!'); // res.send() is like a return statement in C++
    });
 
    app.post('/data', (req, res) => {
