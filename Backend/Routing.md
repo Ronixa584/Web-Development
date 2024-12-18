@@ -33,6 +33,10 @@ app.post("/submit", (req, res) => {
     res.send("Form submitted!");
 });
 
+app.use((req, res) => {
+  res.status(404).send("Route not found");
+});
+
 app.listen(3000, () => {
     console.log("Server is running on port 3000");
 });
